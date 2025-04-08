@@ -13,3 +13,4 @@ Flask_SQLAlchemy
 | Flask            |
 | Python           |
 | Flask_SQLAlchemy |
+| HTML             |
